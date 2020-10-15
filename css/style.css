@@ -1075,3 +1075,9 @@ Media queries
 		margin-bottom: 30px;
 	}
 }
+
+
+
+.img-full-width {
+	max-width: 100%;
+}
