@@ -1081,3 +1081,10 @@ Media queries
 .img-full-width {
 	max-width: 95%;
 }
+
+.galery-img {
+    object-fit: cover;
+    height: 300px;
+    /* max-height: 300px; */
+    width: 100%;
+}
